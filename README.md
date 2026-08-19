@@ -1,4 +1,4 @@
-# Hey! Hai👋 Kesava Rao this side
+# Hey! Hai👋 This is Kesava Rao
 
 ### 📊 Aspiring Data Analyst | SQL • Python • Power BI • Excel
 
