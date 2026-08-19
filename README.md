@@ -61,7 +61,7 @@ Analyzed healthcare data to identify patterns in patient admissions, medical con
 
 Tools: Python • Pandas • NumPy • Matplotlib • Seaborn
 
-🔗 [View Project](YOUR_GITHUB_PROJECT_LINK)
+🔗 [View Project](https://github.com/kesavaraogarugubilli/healthcare_dataset_csv)
 
 ---
 
