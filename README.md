@@ -100,7 +100,7 @@ I’m looking to start my career as a **Data Analyst**, where I can use data to 
 
 💼 LinkedIn: [www.linkedin.com/in/garugubilli-kesava-rao]
 
-🐙 GitHub:(https://github.com/kesavaraogarugubilli/healthcare_dataset_csv)
+🐙 GitHub: [https://github.com/kesavaraogarugubilli/healthcare_dataset_csv]
 
 ---
 
