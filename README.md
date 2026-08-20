@@ -40,18 +40,6 @@ I’m an **MCA student and aspiring Data Analyst** passionate about turning raw 
 
 ---
 
-## 📊 Featured Projects
-
-### 🏥 Healthcare Data Analysis
-
-Analyzed healthcare data to identify patterns in patient admissions, medical conditions, billing, hospital stays, and healthcare costs.
-
-Tools: Python • Pandas • NumPy • Matplotlib • Seaborn
-
-🔗 [View Project](https://github.com/kesavaraogarugubilli/healthcare_dataset_csv)
-
----
-
 ## 📚 Currently Learning
 
 🌱 Advanced SQL 🌱 Python for Data Analysis 🌱 Power BI & DAX 🌱 Advanced Excel 🌱 Statistics for Data Analysis 🌱 Building real-world Data Analytics projects
