@@ -86,23 +86,6 @@ Tools: Excel • Data Cleaning • Pivot Tables • Charts • Dashboard
 
 ---
 
-## 🎯 Career Goal
-
-I’m looking to start my career as a **Data Analyst**, where I can use data to solve business problems, generate actionable insights, and contribute to data-driven decision making.
-
-> **Turning data into insights, and insights into decisions. 📊**
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: [kesavaraogarugbilli@gmail.com]
-
-💼 LinkedIn: [www.linkedin.com/in/garugubilli-kesava-rao]
-
-🐙 GitHub: [https://github.com/kesavaraogarugubilli/healthcare_dataset_csv]
-
----
 
 ⭐ If you find any of my projects useful, feel free to start the repository!
 
