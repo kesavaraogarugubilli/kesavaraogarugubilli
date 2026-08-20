@@ -15,7 +15,6 @@ I’m an **MCA student and aspiring Data Analyst** passionate about turning raw 
 * 🗄️ Practicing **SQL** for data extraction, transformation, and analysis
 * 📈 Building interactive dashboards using **Power BI and Excel**
 * 🧹 Interested in **Data Cleaning, Exploratory Data Analysis (EDA), and Data Visualization**
-* 🚀 Currently building practical projects to strengthen my Data Analytics portfolio
 * 🤝 Open to collaborating on **Data Analytics and Business Intelligence projects**
 * 💼 Actively looking for **Data Analyst / Data Analyst Intern opportunities**
 
@@ -25,11 +24,7 @@ I’m an **MCA student and aspiring Data Analyst** passionate about turning raw 
 
 **Programming & Data Analysis**
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+* Python   * Pandas   * NumPy   * Matplotlib   * Seaborn
 
 **Databases**
 
@@ -37,19 +32,11 @@ I’m an **MCA student and aspiring Data Analyst** passionate about turning raw 
 
 **Data Visualization & BI**
 
-* Power BI
-* Excel
-* Data Visualization
-* Dashboard Development
+* Power BI   * Excel   * Data Visualization   * Dashboard Development
 
 **Data Analytics**
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Transformation
-* Data Reporting
-* KPI Analysis
-* Business Insights
+* Data Cleaning  * Exploratory Data Analysis (EDA)  * Data Transformation  * Data Reporting  * KPI Analysis  * Business Insights
 
 ---
 
@@ -65,24 +52,9 @@ Tools: Python • Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
-### 🎬 Movie Data Analysis
-
-Analyzed movie data to explore trends across genres, ratings, revenue, directors, and other movie-related attributes.
-
-Tools: Excel • Data Cleaning • Pivot Tables • Charts • Dashboard
-
-🔗 [View Project](YOUR_GITHUB_PROJECT_LINK)
-
----
-
 ## 📚 Currently Learning
 
-🌱 Advanced SQL
-🌱 Python for Data Analysis
-🌱 Power BI & DAX
-🌱 Advanced Excel
-🌱 Statistics for Data Analysis
-🌱 Building real-world Data Analytics projects
+🌱 Advanced SQL 🌱 Python for Data Analysis 🌱 Power BI & DAX 🌱 Advanced Excel 🌱 Statistics for Data Analysis 🌱 Building real-world Data Analytics projects
 
 ---
 
